@@ -1,0 +1,174 @@
+@font-face {
+    font-family: "raleway";
+    src: url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+    font-weight: 100;
+    font-style: italic;
+}
+header{
+top: 0px;
+left: 0px;
+width: 1280px;
+height: 73px;
+background: #000 0% 0% no-repeat padding-box;
+margin-top: 0px;
+opacity: 1;
+}
+.titulo{
+font-weight: 100;
+top: 7px;
+left: 530px;
+width: 221px;
+height: 59px;
+text-align: center;
+font: normal normal medium 50px/59px raleway;
+letter-spacing: 0px;
+color: #fff;
+opacity: 1;
+margin-top: 0px;
+margin-right: 221px;
+margin-left: 530px;
+}
+.iguanagrande{
+    top: 73px;
+    left: 0px;
+    width: 1280px;
+    height: 727px;
+    background: transparent url("assets\imgs\Iguana Grande.jpg") 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.texto{ 
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 100px;
+    margin-left: 100px;
+   top: 876px;
+   left: 150px;
+   width: 475px;
+   height: 197px;
+   text-align: left;
+   font: normal normal 300 16px/19px;
+   letter-spacing: 0px;
+   color: #fff;
+   opacity: 1;
+}
+.imgtexto{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 50px;
+    margin-left: 100px;
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+    background: transparent url("assets/imgs/iguana-1.jpg");
+    opacity: 1;
+}
+aside{
+    display: flex;
+    justify-content: flex-start;
+    top: 800px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+    background: #000 0% 0% repeat padding-box;
+    
+}
+.caracteristicas{
+    font-weight: 100px;
+    
+    width: 1240px;
+    height: 20px;
+    background-color: #1e1a13;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px ;
+    margin-left: 0px;
+    margin-right: 10px ;
+}
+
+.flex{
+        display: flex;
+        flex-wrap: nowrap;
+        background-color: #1e1a13;
+        color: #fff;
+        text-align: center;
+        justify-content: space-around;
+        font-weight: 100;
+        width: 1260px;
+        height: 100px;
+        gap: 10%;
+        padding-top: 40px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 0px;
+        float: inline-start;
+      }
+    
+      menu{
+      padding: 0px;
+      }
+   .contenedor{
+    display: flex;
+    background: #000;
+    opacity: 0,96;
+    max-width: 1280px;
+    float: inline-start;
+}  
+    .imga{
+        float: left;
+        margin-top: 73px;
+        margin-left: 150px;
+        margin-bottom: 73px;
+        margin-right:16px;
+        max-width: 30%;
+        top: 1561px;
+        left: 150px;
+        width: 316px;
+        height: 202px;
+        background: transparent url('assets\imgs\iguana-2.jpg') 0% 0% no-repeat padding-box;
+        opacity: 1;
+    }
+    .imgb{
+        margin-top: 73px;
+        margin-left: 16px;
+        margin-bottom: 73px;
+        margin-right:16px;
+        top: 1561px;
+        max-width: 30%;
+        left: 482px;
+        width: 316px;
+        height: 202px;
+        background: transparent url('assets\imgs\iguana-3.jpg') 0% 0% no-repeat padding-box;
+        opacity: 1;
+    }
+    .imgc{
+        margin-top: 73px;
+        margin-left: 16px;
+        margin-bottom: 73px;
+        margin-right:150px;
+        max-width: 30%;
+        top: 1561px;
+        left: 814px;
+        width: 316px;
+        height: 202px;
+        background: transparent url('assets\imgs\iguana-4.jpg') 0% 0% no-repeat padding-box;
+        opacity: 1;
+    }
+footer {
+    float: left;
+    width: 1250px;
+    padding: 15px;
+    margin-left: 0px;
+    margin-right: 140px;
+    height: 45px;
+    font-weight: 100px;
+    font-size: 40px;
+    line-height: 50px;
+    background-color: #1e1a13;
+    color: #fff;
+    font-size: medium;
+    text-align: center;
+    font-weight: 100px;
+    }
